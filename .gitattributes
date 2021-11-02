@@ -1,0 +1,1 @@
+gts4lv-common/proprietary/vendor/saiv/image_understanding/db/aig_classifier/aig_classifier_cnn_light.caffemodel filter=lfs diff=lfs merge=lfs -text
